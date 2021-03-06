@@ -1,11 +1,7 @@
 # Battleship
 Commands:
-
-
-[sw-p1] : view player 1(you) table
-
-
-[sw-p2] : view player 2(computer) table\\
+* **[sw-p1]** : view player 1(you) table.
+* **[sw-p2]** : view player 2(computer) table.
 [gen-p1] : generates a random position for player 1\\
 [gen-p1] : generates a random position for player 2
 [set-p1] : the sequence of positioning of the ships begins

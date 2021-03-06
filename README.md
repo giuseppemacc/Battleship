@@ -2,11 +2,11 @@
 Commands:
 * **[sw-p1]** : view player 1(you) table.
 * **[sw-p2]** : view player 2(computer) table.
-[gen-p1] : generates a random position for player 1\\
-[gen-p1] : generates a random position for player 2
-[set-p1] : the sequence of positioning of the ships begins
-  positioning: [column]  [row]  [dimension]  [direction]
-    column: A,B,C,D,E,F,G,H,I,L
+* **[gen-p1]** : generates a random position for player 1.
+* **[gen-p1]** : generates a random position for player 2.
+* **[set-p1]** : the sequence of positioning of the ships begins
+  * **positioning** : [column]  [row]  [dimension]  [direction]
+    * **column** : A,B,C,D,E,F,G,H,I,L
     row: 1,2,3,4,5,6,7,8,9,10
     dimension: 2 (Incrociatore), 3 (sottomarino), 4 (corazzata), 5 (portaerei)
     direction: e (east/right), o (west/left), n (nord/up), s (sud/down)

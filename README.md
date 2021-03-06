@@ -24,6 +24,7 @@
 
 **Example Image**:
 
-![alt-text-1](example1.PNG "example-1") ![alt-text-2](example2.PNG "example-2")
-
-![alt-text-1](example3.PNG "example-3") ![alt-text-2](example4.PNG "example-4")
+![alt-text-1](example1.PNG "example-1") 
+![alt-text-1](example2.PNG "example-2")
+![alt-text-1](example3.PNG "example-3") 
+![alt-text-1](example4.PNG "example-4")

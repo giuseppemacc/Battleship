@@ -1,5 +1,5 @@
 # Battleship
-Commands:
+** Commands**:
 * **[sw-p1]** : view player 1(you) table.
 * **[sw-p2]** : view player 2(computer) table.
 * **[gen-p1]** : generates a random position for player 1.
@@ -22,4 +22,8 @@ Commands:
   * *once you hit your opponent you have to keep attacking.
 * **[stop]** : exit to the game.
 
-![plot](example1.PNG)
+**Example Image**:
+* ![plot](example1.PNG)
+* ![plot](example2.PNG)
+* ![plot](example3.PNG)
+* ![plot](example4.PNG)

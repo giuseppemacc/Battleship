@@ -22,4 +22,4 @@ Commands:
   // once you hit your opponent you have to keep attacking
 [stop] : exit to the game
 
-[plot](example1.PNG)
+![plot](example1.PNG)
